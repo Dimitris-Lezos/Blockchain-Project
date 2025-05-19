@@ -2,7 +2,6 @@
 This is an initial implementation of the ITC6107 Winter 2024 Project
 > In this project you will use Spark, Kafka, and MongoDB to develop a network of applications for generating transactions, mining them into blocks of a blockcain, which are then transmitted through Kafka and eventually stored into a MongoDB for subsequent processing and answering queries about them.
 
-All provided code needs more work especially <b>mine.py</b>
 <h1>How to run the system</h1>
 <h2>Start MongoDB</h2>
 <li>In my local environment I use MongoDB on <b>Docker</b>:</li>
