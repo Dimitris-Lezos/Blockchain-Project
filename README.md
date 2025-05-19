@@ -1,4 +1,4 @@
-# ITC6107-Project
+# Blockchain-Project
 This is an initial implementation of the ITC6107 Winter 2024 Project
 > In this project you will use Spark, Kafka, and MongoDB to develop a network of applications for generating transactions, mining them into blocks of a blockcain, which are then transmitted through Kafka and eventually stored into a MongoDB for subsequent processing and answering queries about them.
 
